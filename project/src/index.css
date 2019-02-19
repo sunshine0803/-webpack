@@ -1,0 +1,11 @@
+body{
+    background-color: violet;
+
+}
+.root{
+    width:200px;
+    height:200px;
+    /* background: orange; */
+    /* transform: rotate(45deg); */
+    /* background:url(./vuex.jpg) */
+}
